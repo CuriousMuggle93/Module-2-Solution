@@ -43,7 +43,7 @@ p{
     position: relative;
     width: 100%;
     clear: both;
-    padding: 10px;
+    padding: 5px;
     margin: 10px;
 
 }
@@ -52,7 +52,7 @@ p{
   width:150px;
   background-color: #FA8072;
   color: white;
-  font-size: 17px;
+  font-size: 19px;
   position: relative;
   text-align: center;
   height: 34px;
@@ -65,7 +65,7 @@ p{
   width:150px;
   background-color: red;
   color: white;
-  font-size: 17px;
+  font-size: 19px;
   position: relative;
   text-align: center;
   height: 34px;
@@ -78,7 +78,7 @@ p{
   width:150px;
   background-color: orange;
   color: white;
-  font-size: 17px;
+  font-size: 19px;
   position: relative;
   text-align: center;
   height: 34px;
